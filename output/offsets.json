@@ -17,8 +17,6 @@
     "dwViewMatrix": 31664176,
     "dwViewRender": 31667824,
     "dwWeaponC4": 31260088
-  },
-  "engine2.dll": {
     "dwBuildNumber": 6164804,
     "dwNetworkGameClient": 6160944,
     "dwNetworkGameClient_clientTickCount": 856,
@@ -30,15 +28,4 @@
     "dwNetworkGameClient_signOnState": 544,
     "dwWindowHeight": 9278388,
     "dwWindowWidth": 9278384
-  },
-  "inputsystem.dll": {
-    "dwInputSystem": 285216
-  },
-  "matchmaking.dll": {
-    "dwGameTypes": 1789712
-  },
-  "soundsystem.dll": {
-    "dwSoundSystem": 4057984,
-    "dwSoundSystem_engineViewData": 124
   }
-}
